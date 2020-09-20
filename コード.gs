@@ -1,4 +1,4 @@
-var access_token = "dGSrJny4taCvD8ct1l5cyR4PguCWXkExUED7aa8xTvEfNLaxlQ4vPmsvuPJtxnVjxsKDVHOJvqXzLtk3HSHM7l80/wMIAJsSTYh7lvs2iiHXt+zLIF2biRwj1yRPDUwHpzW8emgqRgIhluAzbf2xwAdB04t89/1O/w1cDnyilFU="
+var access_token = "botのアクセストークン代入"
 var line_url = 'https://api.line.me/v2/bot/message/reply';
 var wiki_api = "http://wikipedia.simpleapi.net/api";
 
